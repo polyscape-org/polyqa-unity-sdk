@@ -1,0 +1,12 @@
+{
+  "name": "com.polyscape.polyqa",
+  "displayName": "PolyQA SDK",
+  "version": "1.261125.0",
+  "unity": "2022.3",
+  "description": "PolyQA Driver から UI・内部状態を観測するための SDK。uGUI / UI Toolkit / 独自UI の読み方は Driver が接続時に送り、SDK はリフレクションで読む。Editor・Development Build・POLYQA_SDK 定義時だけ含まれる。PolyQA の契約者だけが利用できる（LICENSE.md）。",
+  "author": { "name": "Polyscape Inc.", "url": "https://polyqa.polyscape.io" },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "licensesUrl": "https://github.com/polyscape-org/polyqa-unity-sdk/blob/main/LICENSE.md",
+  "documentationUrl": "https://github.com/polyscape-org/polyqa-unity-sdk#readme",
+  "keywords": ["qa", "testing", "automation"]
+}

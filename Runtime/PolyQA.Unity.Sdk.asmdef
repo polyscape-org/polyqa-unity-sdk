@@ -1,0 +1,22 @@
+{
+    "name": "PolyQA.Unity.Sdk",
+    "rootNamespace": "PolyQA.Unity.Sdk",
+    "references": [
+        "PolyQA.Unity.Sdk.Annotations"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "PolyQA.Unity.Protocol.dll",
+        "RPCLite.dll",
+        "MemoryPack.Core.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_EDITOR || DEVELOPMENT_BUILD || POLYQA_SDK"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
