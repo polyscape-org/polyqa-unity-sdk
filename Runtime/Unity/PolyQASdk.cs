@@ -21,7 +21,7 @@ namespace PolyQA.Unity.Sdk
     /// </summary>
     public static class PolyQASdk
     {
-        public const string Version = "1.26.1125.0";
+        public const string Version = "1.26.1126.0";
         private static UnitySdkHost? _host;
         private static SdkListener? _listener;
         private static GameObject? _runner;
